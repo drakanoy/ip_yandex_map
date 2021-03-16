@@ -4,7 +4,7 @@ from io import BytesIO
 import pygame
 import requests
 from PIL import Image
-from черновик import razmer
+from mashtab import razmer
 
 # Пусть наше приложение предполагает запуск:
 # python search.py Москва, ул. Ак. Королева, 12
